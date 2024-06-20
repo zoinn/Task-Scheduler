@@ -1,6 +1,6 @@
 # Task-Scheduler
 
-A desktop app built with Rust and React for Scheduling Tasks
+A desktop app built with Tauri-React (TypeScript) & Rust for Scheduling Tasks
 
 # Features
 
