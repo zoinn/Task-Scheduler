@@ -1,6 +1,6 @@
-# Task-Scheduler
+# Task-Scheduler WIP
 
-A desktop app built with Tauri-React (TypeScript) & Rust for Scheduling Tasks
+A desktop app built with Tauri-React (TypeScript) & Rust for Scheduling Tasks 
 
 # Features
 
